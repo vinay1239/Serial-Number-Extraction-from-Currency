@@ -1,4 +1,4 @@
-# VinayKumar
+# Text and Image processing.
 
 # Python project to extract serial number from all Europian currency images.
 
