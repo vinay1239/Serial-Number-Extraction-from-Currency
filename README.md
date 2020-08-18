@@ -11,8 +11,8 @@ Concepts you learn from this project:
 4. Image blurring.
 5. Image sharpening.
 6. Text reading from image.
-7. Text pattern using Regex.
-8. OPEN CV library.
-9. Tesseract library.
+7. Text pattern extraction using Regex.
+8. Using OPEN CV library.
+9. Using Tesseract library.
 
 # HAPPY LEARNING!
