@@ -1,6 +1,6 @@
 # Text and Image processing.
 
-# Python project to extract serial number from all Europian currency images.
+# Python project to extract all unique serial numbers from Europian currency images.
 
 ### You will get good knowledge on Text analytics and Image processing in single project.
 
